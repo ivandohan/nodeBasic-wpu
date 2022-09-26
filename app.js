@@ -28,7 +28,7 @@ yargs.command({
             phoneNumber: argv.phoneNumber
         })
 
-        print('Oke!')
+        print('Oke!') 
     }
 })
 
