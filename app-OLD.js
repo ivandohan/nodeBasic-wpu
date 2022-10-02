@@ -1,4 +1,4 @@
-// Ancokkk lupa async sama practice arrow func
+// Ancokkkkk lupa async sama practice arrow func
 const {
     pathChecker, 
     scan, 
