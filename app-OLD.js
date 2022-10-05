@@ -7,7 +7,7 @@ const {
     print
 } = require('./funcs')
 
-{
+{ 
     pathChecker('dir')
     pathChecker('file')
 }
