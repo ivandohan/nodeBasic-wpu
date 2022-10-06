@@ -16,7 +16,6 @@ const main = async () => {
     const nama = await scan('Nama  : ')
     const nim = await scan('NIM   : ')
     const email = await scan('Email : ')
-    const region = await scan('Reg    : ')
     closeScan()
 
     readAndWriteData({nama, nim, email})
