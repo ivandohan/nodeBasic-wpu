@@ -11,7 +11,7 @@ const {
     pathChecker('dir')
     pathChecker('file')
 }
-
+ 
 const main = async () => {
     const nama = await scan('Nama  : ')
     const nim = await scan('NIM   : ')
